@@ -1,6 +1,6 @@
 # Дмитро Ширяєв
 
-**Контакты:**
+**Контакти:**
 - 📧 Email: turone@ukr.net  
 - 💼 LinkedIn: [linkedin.com/in/ua-opt](https://linkedin.com/in/ua-opt)  
 - 🐙 GitHub: [github.com/ivanivanov](https://github.com/turone)
