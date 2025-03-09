@@ -3,8 +3,8 @@
 **Контакти:**
 - 📧 Email: turone@ukr.net  
 - 💼 LinkedIn: [linkedin.com/in/ua-opt](https://linkedin.com/in/ua-opt)  
-- 🐙 GitHub: [github.com/ivanivanov](https://github.com/turone)
-- Habr:  [habr.com](https://habr.com/ru/users/turone/articles/)
+- 🐙 GitHub: [github.com/turone](https://github.com/turone)
+- Habr:  [habr.com/users/turone](https://habr.com/ru/users/turone/articles/)
 
 ## 🧑‍💻 Досвід роботи
 ### Веб-розробник, freelance
